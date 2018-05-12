@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40925'
     url: http://www.gutenberg.org/2009/agents/40925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42494#The-Paston-Letters-Volume-VI--of-6--Part-2--Index-New-Complete-Library-Edition
 gutenberg_issued: '2013-04-08'
 gutenberg_type: Text
 identifiers:
